@@ -1,5 +1,5 @@
-# CRUD_WebApi_AspNetCore
-Teste para a ingresso.com: Um CRUD utilizando .Net Core + WebApi + MariaDb + Dapper    
+# CRUD utilizando .Net Core + WebApi + MariaDb + Dapper
+Teste para a ingresso.com
 
 #### Para execução do projeto a seguir é necessário:    
 
