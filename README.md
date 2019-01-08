@@ -75,7 +75,7 @@ Ex de JSON esperado:
 }
 ```
 
-**idCidade**: Cidade a qual o cinema pertence
+**idCidade**: Cidade a qual o cinema pertence  
 **salasArray:** Array de int que informa quais salas serão cadastradas para o cinema.
 **Obs:** Necessita ter as salas inseridas no array cadastradas, o mesmo para a cidade.
 
