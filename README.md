@@ -23,6 +23,7 @@ Ex de JSON esperado:
   "nomeFilme": "Aquaman",  
   "genero": "Ação, Aventura",  
   "classificacaoIdade": 12,  
+  "duracao": 120,  
   "sinopse": "O filme revela a história de origem do meio-humano, meio-Atlante Arthur Curry, levando-o na jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei." 
 }
 ```  
