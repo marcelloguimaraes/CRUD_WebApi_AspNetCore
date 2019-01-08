@@ -10,7 +10,7 @@ Teste para a ingresso.com
 A api possui 5 endpoints para as 5 entidades pedidas no teste, cada qual com seus respectivos métodos CRUD(cada um utilizando seu respectivo HTTP Verb: GET,POST, PUT E DELETE).
 
 # Entidade Filme
-**GET**
+**GET**  
 https://localhost:[porta]/api/Filme: Retorna JSON com todos os filmes cadastrados  
 https://localhost:[porta]/api/Filme/1: Retorna JSON com o filme que contenha o id passado na url    
 
