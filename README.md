@@ -76,8 +76,8 @@ Ex de JSON esperado:
 ```
 
 **idCidade**: Cidade a qual o cinema pertence  
-**salasArray:** Array de int que informa quais salas serão cadastradas para o cinema.
-**Obs:** Necessita ter as salas inseridas no array cadastradas, o mesmo para a cidade.
+**salasArray:** Array de int que informa quais salas serão cadastradas para o cinema.  
+**Obs:** Necessita ter as salas inseridas no array cadastradas, o mesmo para a cidade.    
 
 **PUT**  
 https://localhost:[porta]/api/Cinema/1: Atualiza cinema de acordo com JSON e id na url passados.  
